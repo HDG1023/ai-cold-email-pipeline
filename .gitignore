@@ -1,0 +1,15 @@
+# Environment variables — NEVER commit secrets
+.env
+
+# Pipeline output CSVs (may contain PII)
+output/*.csv
+output/*.json
+
+# macOS
+.DS_Store
+
+# Node / Python caches
+node_modules/
+__pycache__/
+*.pyc
+.venv/
