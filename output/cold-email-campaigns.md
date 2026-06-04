@@ -1,14 +1,25 @@
 # Cerulean Chemistry — Cold Email Campaigns
 
-> Two outreach sequences built from research on Cerulean Chemistry, a founder-led
-> cosmetics/skincare formulation lab (co-founder McCall Harris, ~8 years as a
-> cosmetic chemist). Core services: custom formulation from ideation to finished,
-> functional product across skincare and personal care (lotions, balms, deodorant,
-> shampoo, toothpaste), plus reverse-engineering of existing products. Differentiator:
-> hands-on, science-backed, small-lab attention — not a faceless contract manufacturer.
+> **Research note / sourcing:** The live site (`ceruleanchemistry.com`) returns HTTP 403
+> to automated requests on every page (home, `/about`, `/services`, `/contact`, `/work`),
+> so it could not be fetched directly in this environment. The facts below were gathered
+> from public search results instead and are stated as fact only where corroborated.
+> No certifications, MOQs, turnaround times, or case-study claims are asserted in the
+> copy, because none could be verified — these should be added by the Cerulean team
+> before sending if they have them.
+>
+> **What's confirmed about Cerulean Chemistry:** A founder-led cosmetics/skincare
+> formulation lab; co-founder **McCall Harris**, a cosmetic chemist with ~8 years
+> formulating personal care products (prior role: formulation chemist at Wasatch
+> Product Development; biochemistry research background). **Core services:** custom
+> formulation from ideation to finished, functional product across skincare and personal
+> care (lotions, balms, deodorant, shampoo, toothpaste), plus reverse-engineering of
+> existing products. **Differentiator:** hands-on, science-backed, small-lab attention —
+> a named chemist on your project, not a faceless contract manufacturer.
 >
 > **Voice:** conversational, confident, consultative. Leads with the reader's problem.
-> No jargon, no exclamation points, no hype words.
+> No jargon, no exclamation points, no hype words. Emails signed by McCall to keep the
+> founder-led tone.
 >
 > **Personalization tokens:** `{{first_name}}`, `{{company}}`, `{{specific_ingredient_or_product}}`
 
